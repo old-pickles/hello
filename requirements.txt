@@ -1,0 +1,4 @@
+#https://github.com/old-pickles/op-service/tarball/master
+
+op-service == 1.0.1
+PyJWT >= 1.4.2
